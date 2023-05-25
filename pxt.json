@@ -1,0 +1,27 @@
+{
+    "name": "pxt-reeks1lock",
+    "version": "0.0.3",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "builder": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "custom_blocks.ts",
+        "t_lock.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true,
+    "targetVersions": {
+        "target": "1.6.30",
+        "targetId": "minecraft"
+    },
+    "supportedTargets": [
+        "minecraft"
+    ],
+    "preferredEditor": "tsprj"
+}
